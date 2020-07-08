@@ -1,0 +1,12 @@
+﻿Kirstie Jones
+Hwk week 4 - Pandas
+7/7/20
+Homework Report
+
+
+3 Observable Trends
+
+
+1. In examining the Purchasing Analysis by Gender, I was surprised to see that while men outnumber women in the dataset, it’s women who, on average, spend more money per person. 
+2. The dataset makes clear that the target audience to market to are: males, between the ages of 20-24. They make the most purchases and spend more money than any other age group. 
+3. In looking at the Most Popular and Most Profitable Analyses, it was interesting to see that both have the same #1 item: “Final Critic”.  Followed very closely in both analyses by the #2 item: “Oathbreaker, Last Hope of the Breaking Storm”.
